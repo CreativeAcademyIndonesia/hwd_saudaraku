@@ -170,9 +170,9 @@
 }
 body {
     background-image: url("./asset/foto.jpg");
-    /* background-size: cover;
+    background-size: cover;
     background-repeat: no-repeat;
-    background-position: center; */
+    background-position: center; 
     background-color: #00334c;
 
 }
