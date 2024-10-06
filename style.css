@@ -171,8 +171,8 @@
 body {
     background-image: url("./asset/foto.jpg");
     background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center; 
+    /* background-repeat: no-repeat;
+    background-position: center;  */
     background-color: #00334c;
 
 }
